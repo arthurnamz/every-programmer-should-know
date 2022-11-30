@@ -259,3 +259,4 @@ But knowing the stuff will help you become better! :muscle:*
 - :link: [At Coder](https://atcoder.jp/)
 - :link: [Codility](https://www.codility.com/)
 - :link: [ICPC Problem Archive](https://icpc.kattis.com/)
+- :link: [7 Best GitHub Repositories to Become a Better JavaScript Programmer](https://javascript.plainenglish.io/7-best-github-repositories-to-become-a-better-javascript-programmer-8c8f6a681ae5/)
